@@ -12,3 +12,4 @@ _В случае полного выполнения зачитывается з
 [**Рубежный контроль №2**](https://github.com/victobes/BMSTU-IU5/blob/main/Term3/COURSE_PCPL_2023/RK2/reports/IU5-33B_BespalovaVictoria_RK2.pdf)
 
 ## ДЗ
+[**Домашнее задание**](https://github.com/victobes/BMSTU-IU5/tree/main/Term3/COURSE_PCPL_2023/Homework)
